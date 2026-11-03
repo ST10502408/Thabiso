@@ -1,0 +1,19 @@
+<head>
+  <title>Your Page Title with Keywords</title>
+  <meta name="description" content="A concise, keyword-rich description of the page content." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- Open Graph tags for social sharing -->
+  <meta property="og:title" content="Page Title" />
+  <meta property="og:description" content="Page summary for social media." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourwebsite.com/current-page" />
+  <meta property="og:image" content="https://yourwebsite.com/image.jpg" />
+  
+  <!-- Use semantic HTML headings -->
+  <h1>Main heading with keywords</h1>
+  <h2>Subheading</h2>
+
+  <!-- Always add alt text to images -->
+  <img src="product.jpg" alt="Description of product" />
+</head>
